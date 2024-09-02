@@ -1,7 +1,7 @@
-## Hi there 👋 I'am Bustomi Fullstack Developer
+## Hi there 👋 I'am Bustomi
 
 
-<h2> Current My Skills </h2>
+<h2> My Skills </h2>
   
 - <h4> Languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -10,7 +10,7 @@
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   
-  - <h5> currently learning </h5>
+  - <h5> Currently Learning </h5>
     <img src = "https://camo.githubusercontent.com/aa4a8e0f0e37bade51e976a2456b0b5d1ca5f6b1666230bbb4daf79843fe18ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d3030414444383f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465" alt = "go" />
   
 - <h4> Frameworks & Libraries </h4>
