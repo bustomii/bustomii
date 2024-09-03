@@ -12,7 +12,7 @@
   
   - <h5> Currently Learning </h5>
     <img src = "https://camo.githubusercontent.com/aa4a8e0f0e37bade51e976a2456b0b5d1ca5f6b1666230bbb4daf79843fe18ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d3030414444383f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465" alt = "go" />
-  <img src = "https://img.shields.io/badge/Nest%20Js-E0234E?&style=for-the-badge&logo=nestjs" alt = "nestjs" />
+    <img src = "https://img.shields.io/badge/Nest%20Js-E0234E?&style=for-the-badge&logo=nestjs" alt = "nestjs" />
     
   
 - <h4> Frameworks & Libraries </h4>
