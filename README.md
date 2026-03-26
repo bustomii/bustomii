@@ -58,9 +58,8 @@
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Portfolio]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: https://www.linkedin.com/in/mibustomi
+- 📧 Email: bustomi.xcvi@gmail.com
 
 ---
 
